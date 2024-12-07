@@ -1,6 +1,8 @@
   <div style="display: flex; flex-direction: column;
   align-items: center;">
-  <img   style="margin: 15px 0px 25px 20px; padding-left: 30px; width: 550px" alt="laptop-perspective" src="public/layout/node.svg" />
+   <figure style="width: 100%; max-width: 500px">
+    <img   style="margin: 15px 0px; width: 550px" alt="laptop-perspective" src="public/layout/node.svg" />
+   </figure>
   </div>
 
 <h3 align="center">
@@ -9,7 +11,7 @@
 
 ---
 
-[We are ONLINE on RENDER, try Now](https://api-rest-transactions-rfl2.onrender.com) :point_left:
+[<a href="https://api-rest-transactions-rfl2.onrender.com" target="_blank"> We are ONLINE on RENDER, try Now]() :point_left:
 
 <br>
 
@@ -17,7 +19,6 @@
   <a href="#test_tube-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#desktop_computer-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#bookmark-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#sunny-result">Result</a>
 </p>
 
